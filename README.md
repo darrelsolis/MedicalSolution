@@ -1,5 +1,5 @@
 # MedicalSolution
-Patient and Physician Records System - Medical Solution Web Application
+Patient and Physician Records System - Medical Solution Web Application (Vanilla PHP)
 
 IMPORTANT:
 
